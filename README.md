@@ -11,3 +11,5 @@ This class record can do the following:
    -DELETE STUDENT
    -UPDATE  STUDENT
    -DISPLAY CLASS RECORD
+
+P.S: This was uploaded in github directly (copied the source code on my original project before), you might notice that the commits is just few.
