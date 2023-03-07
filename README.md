@@ -13,3 +13,4 @@ This class record can do the following:
    -DISPLAY CLASS RECORD
 
 P.S: This was uploaded in github directly (copied the source code on my original project before), you might notice that the commits is just few.
+I was not using github before during the making of this project.
